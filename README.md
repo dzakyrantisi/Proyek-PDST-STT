@@ -72,6 +72,7 @@ Video Demo 'sttpdst' (note: gunakan volume suara maksimum dan gunakan headphone/
 ## 🗓️ Progress Minggu 3, Pertemuan 8 (Tanggal: 10–16 Okt 2025)
 ### ✅ Pekerjaan yang Selesai
 - Pengimplementasian Whisper Large Turbo (pada file 'sttpdst/backend/large-turbo.py') [Arka]
+- Research model model lain yang bisa di gunakan untuk diarization seperti google cloud to speach dan whisper large v-3 [Dzaky]
 - Penambahan audio frequency pada UI frontend untuk kemudahan debugging (pada file 'sttdpdst/lib/realtime_screen.dart') [Arka]
 - Pembuatan desain Front-End di Figma. [Hans & Dustin]
 
